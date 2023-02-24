@@ -1,0 +1,15 @@
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\bin\Debug\net6.0\Hello_console.exe
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\bin\Debug\net6.0\Hello_console.deps.json
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\bin\Debug\net6.0\Hello_console.runtimeconfig.json
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\bin\Debug\net6.0\Hello_console.dll
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\bin\Debug\net6.0\Hello_console.pdb
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\obj\Debug\net6.0\Hello_console.csproj.AssemblyReference.cache
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\obj\Debug\net6.0\Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\obj\Debug\net6.0\Hello_console.AssemblyInfoInputs.cache
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\obj\Debug\net6.0\Hello_console.AssemblyInfo.cs
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\obj\Debug\net6.0\Hello_console.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\obj\Debug\net6.0\Hello_console.dll
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\obj\Debug\net6.0\refint\Hello_console.dll
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\obj\Debug\net6.0\Hello_console.pdb
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\obj\Debug\net6.0\Hello_console.genruntimeconfig.cache
+C:\Users\sasha\Desktop\Изучаю Верстку\Знакомство с языками програмирования Лекции\Lekcia1\Hello_console\obj\Debug\net6.0\ref\Hello_console.dll
